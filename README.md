@@ -6,4 +6,4 @@
 
 `npm start`
 
-Navigate to http://locathost:3001/
+Navigate to http://localhost:3001/
